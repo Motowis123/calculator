@@ -1,2 +1,2 @@
 # calculator
-very crappy will probly delete. check readme very important
+very crappy will probly delete. check readme in the zip very important
